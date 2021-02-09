@@ -1,9 +1,6 @@
 # Projeto de PSI
 Repositório para o projeto de PSI
 
-INSTRUÇÕES (leiam, senão isto vai dar merda)
-Para começar recomendo fazerem TODOS os tutoriais do learngitbranching.js.org que tambem tem um bom modo sandbox para perceber isto. Aprendam pelo menos sobre Git Rebase.
-
 Para gerirmos isto de uma forma meio decente, vamos ter que usar branches, e fazer bastantes commits. Aliás o que todos os guias de git dizem, é fazer muitos branches, o mais no inicio possivel, e fazer commits frequentes, para dar rollback mais facilmente.
 Logo façam branches para cada feature basicamente. é tal como quando aprendem a transformar cada coisa do código num método, em vez de poucos métodos maiores, o raciocinio é o mesmo. O mesmo para os commits, frequentes, por cada coisa.
 Isto é para garantir que mesmo que nós trabalhamos nos mesmos ficheiros, podemos continuar a trabalhar independentemente, e depois podemos dar merge nos branches e combinar o codigo de duas versões do ficheiro numa só (o git tem um mecanismo para tratar de conflictos, em que há codigos diferentes nas mesmas partes/linhas do ficheiro, depois elaboro).
